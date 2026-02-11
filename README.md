@@ -25,4 +25,4 @@ firmware for real-time and hardware-interfacing applications.
 - Real-time embedded system design
 - Firmware architecture and code quality improvement
 
-📫 Contact: kthirumalaivasan75@gmail.com |https://www.linkedin.com/in/thirumalaivasan-k-95889a245
+📫 Contact: kthirumalaivasan75@gmail.com | https://www.linkedin.com/in/thirumalaivasan-k-95889a245
